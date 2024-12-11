@@ -1,0 +1,19 @@
+Vuelo 
+JBU1057 - AVION N975JT
+¿qué ruta se está cumpliendo? JFK, New York, NY -> AUA, Oranjestad, Aruba
+¿qué tipo de avión es? Airbus A321-231
+¿en dónde estuvo el avión antes? Fort Lauderdale, New York, San Juan, Washington, Boston, Phoenix, Oranjestad, Tampa, Orlando, Punta Cana
+====================================================
+IMO
+9502972 - MAERSK ESMERALDAS
+¿De qué bandera es el barco? Panamá
+¿En qué año se construyó el barco? 2013
+¿qué tipo de barco es? Carga
+====================================================
+Foto1.jpeg - Iglesia Catedral de las Fuerzas Armadas
+40.415075, -3.712445 - Desde dónde se toma?
+40.41484486118987, -3.7122027604939776 - Lugar dónde es 
+====================================================
+Foto2.jpeg - Mausoleo de Mohamed V
+34.0228330843555, -6.822607778216155 - Desde dónde se toma?
+34.02265934827714, -6.821492826380352 - Lugar dónde es
